@@ -10,7 +10,7 @@ const Header = () => (
                 src={HbsisLogo} 
                 className="img-logo" 
                 alt="logo hbsis" 
-                srcset=""/>
+                srcSet=""/>
         </div>
 
         <div>
@@ -18,7 +18,7 @@ const Header = () => (
                 src={AmbevLogo} 
                 alt="logo ambev" 
                 className="img-logo" 
-                srcset=""/>
+                srcSet=""/>
         </div>
   </header>
 )
